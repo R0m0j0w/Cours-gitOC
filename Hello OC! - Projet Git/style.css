@@ -1,0 +1,12 @@
+body {
+  	background-image: url("hello-world.png");
+  	background-repeat: no-repeat;
+  	background-position:top;
+  	margin: 50px; 
+}
+header {
+	text-align: center;
+	font-size: 50px;
+	font-family: fantasy;
+	color: orange;
+}
