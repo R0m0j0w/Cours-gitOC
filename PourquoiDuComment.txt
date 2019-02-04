@@ -1,0 +1,1 @@
+Ce repo a été créer pour le cours "gerer son code avec Git et Github" de OpenClassrooms , il detaille le fonctionnement et l'utilisation de github.
